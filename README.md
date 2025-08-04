@@ -1,5 +1,6 @@
 # Task 1: Python program to perform basic mathematical operations  
 It takes two numbers from the user and performs basic math operations: **addition, subtraction, multiplication,** and **division**. Then it shows the results on the screen.
+
 **Step-by-Step Explanation:**
 1. **User Input:**
    * The program asks the user to enter **two numbers**.
@@ -16,6 +17,7 @@ It takes two numbers from the user and performs basic math operations: **additio
 
 # Task 2: Python program to Create a Personalized Greeting
 It **asks the user for their first and last name**, then **joins them together**, and finally **prints a greeting message** using their full name.
+
 **Step-by-step Explanation:**
 1. **Input the First Name:**
    → It shows a message on the screen asking the user to type their first name.
